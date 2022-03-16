@@ -1,4 +1,5 @@
 # ajax-simple-web-service-request
+GitPages [here](https://alex-b9.github.io/ajax-simple-web-service-request/)
  
 ##Languages : 
 - HTML5
@@ -6,6 +7,3 @@
   - SCSS
 - JavaScript
   - .json
-
-###GitPages
-[here](https://alex-b9.github.io/ajax-simple-web-service-request/)
