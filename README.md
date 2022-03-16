@@ -7,6 +7,6 @@
 - JavaScript
   - .json
 
-##GitPages :
+###GitPages :
 
 [here](https://alex-b9.github.io/ajax-simple-web-service-request/)
