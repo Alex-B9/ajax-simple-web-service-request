@@ -1,0 +1,29 @@
+@import "normalize.css";
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #232342;
+}
+
+.container {
+  max-width: 50%;
+  max-height: 50%;
+  background-color: #7e7eaf;
+  color: #FFFFFF;
+  align-items: center;
+  text-align: center;
+  border-radius: 10%;
+}
+.container blockquote {
+  font-size: 20px;
+}
+.container img {
+  max-height: 40%;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */

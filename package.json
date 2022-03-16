@@ -1,0 +1,20 @@
+{
+  "name": "ajax_js-s2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss" : "sass --watch Assets/stylesheet/style.scss:Assets/stylesheet/style.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-B9/Ajax_Js-S2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-B9/Ajax_Js-S2/issues"
+  },
+  "homepage": "https://github.com/Alex-B9/Ajax_Js-S2#readme"
+}
