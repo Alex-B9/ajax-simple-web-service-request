@@ -1,2 +1,2 @@
-# Ajax_Js-S2
+# ajax-simple-web-service-request
  
